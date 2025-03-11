@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Black and White Space Astronaut Group Project Presentation (1)](https://github.com/user-attachments/assets/685b4617-3d37-4101-8c33-4afe66d01910)
